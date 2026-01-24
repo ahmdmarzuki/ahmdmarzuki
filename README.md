@@ -1,4 +1,17 @@
-# Hi, I'm Ahmad 👋
+# Behind the Code 💻
+
+### Exploring Robotics and Control System
+
+![Robotics](https://img.shields.io/badge/Robotics-blue)
+![C++](https://img.shields.io/badge/C++-17-blue)
+![Python](https://img.shields.io/badge/Python-3.x-yellow)
+![ROS2](https://img.shields.io/badge/ROS2-Humble-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![CMake](https://img.shields.io/badge/CMake-3.26-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![NextJs](https://img.shields.io/badge/NextJs-black)
 
 🚀 Robotics & System Enthusiast  
 🧠 ROS 2 | Computer Vision | Embedded Systems  
@@ -14,14 +27,6 @@
 - ESP32 + micro-ROS
 
 ---
-
-![C++](https://img.shields.io/badge/C++-17-blue)
-![Python](https://img.shields.io/badge/Python-3.11-yellow)
-![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
-![ESP32](https://img.shields.io/badge/ESP32-blueviolet)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
-![CMake](https://img.shields.io/badge/CMake-3.26-blue)
 
 ## 🛠 Tech Stack
 
