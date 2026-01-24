@@ -44,3 +44,7 @@ Undergraduate Student of **Industrial Design**, **Bandung Institute of Technolog
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmd-marzuki)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ahmrrzz)
+
+---
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,cmake,ros,opencv,html,css,javascript,typescript,react,next,dart,flutter&theme=dark)](https://skillicons.dev)
