@@ -11,20 +11,16 @@
 ![CMake](https://img.shields.io/badge/CMake-3.26-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![NextJs](https://img.shields.io/badge/NextJs-black)
+![NextJs](https://img.shields.io/badge/NextJs-20-black)
 
-🚀 Robotics & System Enthusiast  
-🧠 ROS 2 | Computer Vision | Embedded Systems  
-🎓 From Art → Engineering (yes, that's real)
-
----
+Undergraduate Student of Industrial Design, Bandung Institute of Technology
 
 ## 🤖 What I'm Working On
 
-- ROS 2 Humble mobile robot
+- Robotic control system
+- ROS 2 High level robotics
 - Localization & Navigation (SLAM, AMCL)
 - Vision-based perception (OpenCV, YOLO)
-- ESP32 + micro-ROS
 
 ---
 
@@ -37,9 +33,15 @@
 
 ---
 
+## My GitHub Activity 📊
+
+![snake gif](https://github.com/ahmdmarzuki/ahmdmarzuki/blob/output/github-contribution-grid-snake.svg)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=dark)
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ahmdmarzuki&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=ahmdmarzuki&show_icons=true&theme=dark)
 
 ---
 
