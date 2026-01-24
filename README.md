@@ -13,7 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![NextJs](https://img.shields.io/badge/NextJs-grey)
 
-Undergraduate Student of Industrial Design, Bandung Institute of Technology
+Undergraduate Student of **Industrial Design**, **Bandung Institute of Technology**
 
 ## What I'm Working On
 
