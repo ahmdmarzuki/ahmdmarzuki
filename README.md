@@ -33,15 +33,9 @@ Undergraduate Student of Industrial Design, Bandung Institute of Technology
 
 ---
 
-## My GitHub Activity 📊
-
 ![snake animation](https://github.com/ahmdmarzuki/ahmdmarzuki/blob/output/github-contribution-grid-snake-dark.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=dark)
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ahmdmarzuki&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=dark) ![Stats](https://github-readme-stats.vercel.app/api?username=ahmdmarzuki&show_icons=true&theme=dark)
 
 ---
 
