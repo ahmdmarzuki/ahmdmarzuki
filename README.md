@@ -15,7 +15,7 @@
 
 Undergraduate Student of Industrial Design, Bandung Institute of Technology
 
-## 🤖 What I'm Working On
+## What I'm Working On
 
 - Robotic control system
 - ROS 2 High level robotics
@@ -24,7 +24,7 @@ Undergraduate Student of Industrial Design, Bandung Institute of Technology
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Languages**: C++, Python, JavaScript, TypeScript, Dart
 - **Robotics**: ROS 2, Gazebo, OpenCV
@@ -32,20 +32,19 @@ Undergraduate Student of Industrial Design, Bandung Institute of Technology
 
 ---
 
-![snake animation](https://github.com/ahmdmarzuki/ahmdmarzuki/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/ahmdmarzuki/ahmdmarzuki/blob/output/github-contribution-grid-snake-github_dark.svg)
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=github_dark)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ahmdmarzuki&show_icons=true&theme=dark) -->
+![Stats](https://github-readme-stats.vercel.app/api?username=ahmdmarzuki&show_icons=true&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmdmarzuki&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=dark" />
-</p>
+![Metrics](https://metrics.lecoq.io/ahmdmarzuki?template=classic&languages=1&isocalendar=1&achievements=1)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ahmdmarzuki&theme=darkhub)
 
 ---
 
 ## Let's Connect
 
-- 💼 LinkedIn: [www.linkedin.com/in/ahmd-marzuki](www.linkedin.com/in/ahmd-marzuki)
-- 📷 Instagram: [www.instagram.com/ahmrrzz](www.instagram.com/ahmrrzz)
+- **LinkedIn**: [www.linkedin.com/in/ahmd-marzuki](www.linkedin.com/in/ahmd-marzuki)
+- **Instagram**: [www.instagram.com/ahmrrzz](www.instagram.com/ahmrrzz)
