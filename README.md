@@ -11,14 +11,14 @@
 ![CMake](https://img.shields.io/badge/CMake-3.26-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![NextJs](https://img.shields.io/badge/NextJs-20-black)
+![NextJs](https://img.shields.io/badge/NextJs-grey)
 
 Undergraduate Student of Industrial Design, Bandung Institute of Technology
 
 ## What I'm Working On
 
 - Robotic control system
-- ROS 2 High level robotics
+- ROS 2 & High level robotics
 - Localization & Navigation (SLAM, AMCL)
 - Vision-based perception (OpenCV, YOLO)
 
@@ -34,13 +34,9 @@ Undergraduate Student of Industrial Design, Bandung Institute of Technology
 
 ![snake animation](https://github.com/ahmdmarzuki/ahmdmarzuki/blob/output/github-contribution-grid-snake-github_dark.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=github_dark)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=github_dark) -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ahmdmarzuki&show_icons=true&theme=github_dark)
-
-![Metrics](https://metrics.lecoq.io/ahmdmarzuki?template=classic&languages=1&isocalendar=1&achievements=1)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ahmdmarzuki&theme=darkhub)
 
 ---
 
