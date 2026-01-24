@@ -42,5 +42,5 @@ Undergraduate Student of Industrial Design, Bandung Institute of Technology
 
 ## Let's Connect
 
-- **LinkedIn**: [www.linkedin.com/in/ahmd-marzuki](www.linkedin.com/in/ahmd-marzuki)
-- **Instagram**: [www.instagram.com/ahmrrzz](www.instagram.com/ahmrrzz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmd-marzuki)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ahmrrzz)
