@@ -47,4 +47,4 @@ Undergraduate Student of **Industrial Design**, **Bandung Institute of Technolog
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,cmake,ros,opencv,html,css,javascript,typescript,react,next,dart,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,cmake,ros,opencv,html,css,javascript,typescript,nodejs,react,next,dart,flutter,git,github&theme=dark)](https://skillicons.dev)
