@@ -32,7 +32,7 @@ Undergraduate Student of Industrial Design, Bandung Institute of Technology
 
 ---
 
-![snake animation](https://github.com/ahmdmarzuki/ahmdmarzuki/blob/output/github-contribution-grid-snake-github_dark.svg)
+![snake animation](https://github.com/ahmdmarzuki/ahmdmarzuki/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=github_dark) -->
 
