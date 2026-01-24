@@ -26,20 +26,26 @@ Undergraduate Student of Industrial Design, Bandung Institute of Technology
 
 ## 🛠 Tech Stack
 
-- **Languages**: C++, Python
+- **Languages**: C++, Python, JavaScript, TypeScript, Dart
 - **Robotics**: ROS 2, Gazebo, OpenCV
-- **Hardware**: ESP32, Sensors, Motor Drivers
 - **Tools**: Linux, Git, CMake
 
 ---
 
 ![snake animation](https://github.com/ahmdmarzuki/ahmdmarzuki/blob/output/github-contribution-grid-snake-dark.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=dark) ![Stats](https://github-readme-stats.vercel.app/api?username=ahmdmarzuki&show_icons=true&theme=dark)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=dark)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ahmdmarzuki&show_icons=true&theme=dark) -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmdmarzuki&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=dark" />
+</p>
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 - 💼 LinkedIn: [www.linkedin.com/in/ahmd-marzuki](www.linkedin.com/in/ahmd-marzuki)
 - 📷 Instagram: [www.instagram.com/ahmrrzz](www.instagram.com/ahmrrzz)
