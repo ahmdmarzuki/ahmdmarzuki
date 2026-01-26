@@ -19,8 +19,8 @@ Undergraduate Student of **Industrial Design**, **[Bandung Institute of Technolo
 
 - Robotic control system
 - ROS 2 & High level robotics
-- Localization & Navigation (SLAM, AMCL)
 - Vision-based perception (OpenCV, YOLO)
+<!-- - Localization & Navigation (SLAM, AMCL) -->
 
 ---
 
