@@ -42,6 +42,9 @@ Undergraduate Student of **Industrial Design**, **[Bandung Institute of Technolo
 
 ![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmdmarzuki&theme=github_dark&animation=draw&utcOffset=7)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmd-marzuki)
