@@ -38,10 +38,10 @@ Undergraduate Student of **Industrial Design**, **[Bandung Institute of Technolo
 
 ![Profile details card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmdmarzuki&theme=github_dark)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmdmarzuki&theme=github_dark)
-
-![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmdmarzuki&theme=github_dark&animation=draw&utcOffset=7)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmdmarzuki&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmdmarzuki&theme=github_dark&animation=draw&utcOffset=7" width="49%" />
+</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
