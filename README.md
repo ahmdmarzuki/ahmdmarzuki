@@ -36,7 +36,7 @@ Undergraduate Student of **Industrial Design**, **[Bandung Institute of Technolo
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=github_dark) -->
 
-![Profile details card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmdmarzuki&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmdmarzuki&theme=github_dark" width="100%" alt="Profile details" />
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmdmarzuki&theme=github_dark" width="49%" />
