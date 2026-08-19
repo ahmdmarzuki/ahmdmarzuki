@@ -43,6 +43,11 @@ Undergraduate Student of **Industrial Design**, **[Bandung Institute of Technolo
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmdmarzuki&theme=github_dark&animation=draw&utcOffset=7" width="49%" />
 </p>
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## Let's Connect
