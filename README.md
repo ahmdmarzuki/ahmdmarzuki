@@ -36,12 +36,12 @@ Undergraduate Student of **Industrial Design**, **[Bandung Institute of Technolo
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdmarzuki&layout=compact&theme=github_dark) -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmdmarzuki&theme=github_dark" width="100%" alt="Profile details" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmdmarzuki&theme=github_dark" width="100%" alt="Profile details" /> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmdmarzuki&theme=github_dark" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmdmarzuki&theme=github_dark&animation=draw&utcOffset=7" width="49%" />
-</p>
+</p> -->
 <!--START_SECTION:waka-->
 
 ```txt
